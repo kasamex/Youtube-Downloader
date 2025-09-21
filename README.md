@@ -129,14 +129,6 @@ Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE)
 
 Este software é fornecido apenas para fins educacionais e de uso pessoal. Respeite os direitos autorais e os termos de serviço do YouTube. O uso deste software é de sua inteira responsabilidade.
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-- Reportar bugs
-- Sugerir melhorias
-- Enviar pull requests
-
 ## 📧 Suporte
 
 Se encontrar algum problema ou tiver dúvidas, abra uma [issue](https://github.com/kasamex/youtube-downloader/issues) no GitHub.
