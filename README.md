@@ -25,7 +25,7 @@ Um downloader simples e eficiente para vídeos do YouTube, construído com Pytho
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/youtube-downloader.git
+   git clone https://github.com/kasamex/youtube-downloader.git
    cd youtube-downloader
    ```
 
@@ -139,7 +139,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📧 Suporte
 
-Se encontrar algum problema ou tiver dúvidas, abra uma [issue](https://github.com/seu-usuario/youtube-downloader/issues) no GitHub.
+Se encontrar algum problema ou tiver dúvidas, abra uma [issue](https://github.com/kasamex/youtube-downloader/issues) no GitHub.
 
 ---
 
